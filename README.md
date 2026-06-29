@@ -7,10 +7,6 @@
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+actionable+insight+%F0%9F%93%8A;Building+pipelines+that+scale+%E2%9A%99%EF%B8%8F;From+IoT+sensors+to+cloud+dashboards+%E2%98%81%EF%B8%8F;3%2B+years+across+ETL%2C+ML+%26+BI)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?
-font=Fira+Code&size=18&duration=2000&pause=1500&
-color=58A6FF&background=00000000&center=true&vCenter=true&width=520&
-lines=Turning+raw+data+into+insight;Building+scalable+data+pipelines)](https://git.io/typing-svg)
 </div>
 
 ---
