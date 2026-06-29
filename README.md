@@ -1,5 +1,5 @@
 # Koshika
-Hello World!!
+
 <div align="center">
 
 <!-- Animated greeting banner -->
