@@ -6,7 +6,7 @@ Hello World!!
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Koshika%20Gaur&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20ML%20%7C%20Cloud%20%7C%20Analytics&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+actionable+insight+%F0%9F%93%8A;Building+pipelines+that+scale+%E2%9A%99%EF%B8%8F;From+IoT+sensors+to+cloud+dashboards+%E2%98%81%EF%B8%8F;5%2B+years+across+ETL%2C+ML+%26+BI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+actionable+insight+%F0%9F%93%8A;Building+pipelines+that+scale+%E2%9A%99%EF%B8%8F;From+IoT+sensors+to+cloud+dashboards+%E2%98%81%EF%B8%8F;3%2B+years+across+ETL%2C+ML+%26+BI)](https://git.io/typing-svg)
 
 </div>
 
