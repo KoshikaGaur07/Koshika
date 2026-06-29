@@ -14,13 +14,13 @@ Hello World!!
 
 ## 👩‍💻 About Me
 
-I'm a **Data Engineer & Analytical Solutions Designer** with 5+ years of experience building data pipelines, ML workflows, and BI dashboards across industries — from precision livestock farming (IoT) to packaging & marketing analytics.
+I'm a **Data  & Analytics Engineer** with 3+ years of experience building data pipelines, ML workflows, and BI dashboards across industries — from precision livestock farming (IoT) to packaging & marketing analytics.
 
 Currently based in **Germany 🇩🇪**, I combine deep technical expertise with strong stakeholder communication skills — bridging the gap between raw data and business decisions.
 
-- 🎓 **MSc International Software System Sciences** — Otto-Friedrich University of Bamberg *(1.7 GPA)*
+- 🎓 **MSc International Software System Sciences** — Otto-Friedrich University of Bamberg 
 - 🔬 **Master's Thesis**: IoT pipeline optimization for cattle farming using PySpark, Tabu Search & Gray-Code algorithms — **70% runtime reduction**
-- 🏢 Worked with **All4Labels**, **EVREN Global**, **Livesmart** — delivering 30–95% improvements across data quality, retention, and marketing ROI
+- 🏢 Worked with **Envirojunction**, **All4Labels**, **EVREN Global**, **Livesmart** — delivering 30–95% improvements across data quality, retention, and marketing ROI
 - 🌍 Languages: Hindi (Native) · English (C1) · German (B1)
 - 🎨 Outside work: sketching, painting, dance & table tennis
 
